@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T19:15:46.581Z",
+  "updatedAt": "2026-03-25T19:17:39.009Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -28,6 +28,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/medium/general/rotten-oranges-practice/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-03-25T19:15:46.269Z"
+    },
+    {
+      "id": "1774466258688-4d7x4w",
+      "title": "Reverse Bits",
+      "platform": "leetcode",
+      "difficulty": "easy",
+      "topic": "general",
+      "topicSlug": "general",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://leetcode.com/problems/reverse-bits/?envType=daily-question&envId=2026-02-23",
+      "solutionPath": "dsa-archive/solutions/leetcode/easy/general/reverse-bits/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-03-25T19:17:38.688Z"
     }
   ]
 }
