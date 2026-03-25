@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T19:11:38.261Z",
+  "updatedAt": "2026-03-25T19:15:46.581Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -14,6 +14,20 @@
       "solutionPath": "dsa-archive/solutions/leetcode/medium/general/check-if-a-string-contains-all-binary-codes-of-size-k/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-03-25T19:11:37.972Z"
+    },
+    {
+      "id": "1774466146269-96cfcq",
+      "title": "Rotten Oranges | Practice",
+      "platform": "gfg",
+      "difficulty": "medium",
+      "topic": "general",
+      "topicSlug": "general",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/rotten-oranges2536/1",
+      "solutionPath": "dsa-archive/solutions/gfg/medium/general/rotten-oranges-practice/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-03-25T19:15:46.269Z"
     }
   ]
 }
