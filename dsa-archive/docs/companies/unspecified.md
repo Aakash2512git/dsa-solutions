@@ -1,6 +1,13 @@
 # Company: Unspecified
 
-Total: 1
+Total: 2
+
+- **Rotten Oranges | Practice** (GFG, MEDIUM)
+  - Topic: general
+  - Companies: unspecified
+  - Source: https://www.geeksforgeeks.org/problems/rotten-oranges2536/1
+  - Solution File: `dsa-archive/solutions/gfg/medium/general/rotten-oranges-practice/solution.cpp`
+  - Pushed At: 2026-03-25T19:15:46.269Z
 
 - **Check If a String Contains All Binary Codes of Size K** (LEETCODE, MEDIUM)
   - Topic: general
