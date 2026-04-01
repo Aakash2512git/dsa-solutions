@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T18:19:04.163Z",
+  "updatedAt": "2026-04-01T19:21:18.325Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -56,6 +56,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/hard/graph/articulation-point-ii-practice/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-03-28T18:19:03.855Z"
+    },
+    {
+      "id": "1775071277967-4xdz03",
+      "title": "Consecutive 1's not allowed | Practice",
+      "platform": "gfg",
+      "difficulty": "medium",
+      "topic": "dp",
+      "topicSlug": "dp",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1",
+      "solutionPath": "dsa-archive/solutions/gfg/medium/dp/consecutive-1-s-not-allowed-practice/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-04-01T19:21:17.967Z"
     }
   ]
 }
