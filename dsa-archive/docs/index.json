@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T19:24:04.069Z",
+  "updatedAt": "2026-04-02T17:43:26.995Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -84,6 +84,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/medium/dp/consecutive-1-s-not-allowed-practice/solution2.cpp",
       "importantPath": null,
       "pushedAt": "2026-04-01T19:24:03.605Z"
+    },
+    {
+      "id": "1775151806676-o2tyz0",
+      "title": "Painting the Fence | Practice",
+      "platform": "gfg",
+      "difficulty": "medium",
+      "topic": "dp",
+      "topicSlug": "dp",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/painting-the-fence3727/1",
+      "solutionPath": "dsa-archive/solutions/gfg/medium/dp/painting-the-fence-practice/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-04-02T17:43:26.676Z"
     }
   ]
 }
