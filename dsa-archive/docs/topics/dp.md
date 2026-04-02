@@ -1,6 +1,13 @@
 # Topic: Dp
 
-Total: 2
+Total: 3
+
+- **Painting the Fence | Practice** (GFG, MEDIUM)
+  - Topic: dp
+  - Companies: unspecified
+  - Source: https://www.geeksforgeeks.org/problems/painting-the-fence3727/1
+  - Solution File: `dsa-archive/solutions/gfg/medium/dp/painting-the-fence-practice/solution.cpp`
+  - Pushed At: 2026-04-02T17:43:26.676Z
 
 - **Consecutive 1's not allowed | Practice** (GFG, MEDIUM)
   - Topic: dp
