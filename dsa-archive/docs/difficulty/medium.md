@@ -1,6 +1,13 @@
 # Difficulty: Medium
 
-Total: 5
+Total: 6
+
+- **Painting the Fence | Practice** (GFG, MEDIUM)
+  - Topic: dp
+  - Companies: unspecified
+  - Source: https://www.geeksforgeeks.org/problems/painting-the-fence3727/1
+  - Solution File: `dsa-archive/solutions/gfg/medium/dp/painting-the-fence-practice/solution2.cpp`
+  - Pushed At: 2026-04-02T17:48:08.577Z
 
 - **Painting the Fence | Practice** (GFG, MEDIUM)
   - Topic: dp
