@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T17:43:26.995Z",
+  "updatedAt": "2026-04-02T17:48:08.996Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -98,6 +98,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/medium/dp/painting-the-fence-practice/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-04-02T17:43:26.676Z"
+    },
+    {
+      "id": "1775152088577-6o6w0s",
+      "title": "Painting the Fence | Practice",
+      "platform": "gfg",
+      "difficulty": "medium",
+      "topic": "dp",
+      "topicSlug": "dp",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/painting-the-fence3727/1",
+      "solutionPath": "dsa-archive/solutions/gfg/medium/dp/painting-the-fence-practice/solution2.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-04-02T17:48:08.577Z"
     }
   ]
 }
