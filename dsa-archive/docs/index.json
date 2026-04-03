@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T17:48:08.996Z",
+  "updatedAt": "2026-04-03T17:16:23.129Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -112,6 +112,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/medium/dp/painting-the-fence-practice/solution2.cpp",
       "importantPath": null,
       "pushedAt": "2026-04-02T17:48:08.577Z"
+    },
+    {
+      "id": "1775236582787-kitxfr",
+      "title": "Print Diagonally | Practice",
+      "platform": "gfg",
+      "difficulty": "easy",
+      "topic": "matrix",
+      "topicSlug": "matrix",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/print-diagonally4331/1",
+      "solutionPath": "dsa-archive/solutions/gfg/easy/matrix/print-diagonally-practice/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-04-03T17:16:22.788Z"
     }
   ]
 }
