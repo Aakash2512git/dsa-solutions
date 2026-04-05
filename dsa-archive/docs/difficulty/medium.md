@@ -1,6 +1,13 @@
 # Difficulty: Medium
 
-Total: 6
+Total: 7
+
+- **Target Sum | Practice** (GFG, MEDIUM)
+  - Topic: dp
+  - Companies: unspecified
+  - Source: https://www.geeksforgeeks.org/problems/target-sum-1626326450/1
+  - Solution File: `dsa-archive/solutions/gfg/medium/dp/target-sum-practice/solution.cpp`
+  - Pushed At: 2026-04-05T18:23:44.300Z
 
 - **Painting the Fence | Practice** (GFG, MEDIUM)
   - Topic: dp
