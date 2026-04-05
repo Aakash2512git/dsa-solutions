@@ -1,10 +1,10 @@
 # DSA Documentation
 
-Total solutions: 9
+Total solutions: 10
 
 ## By Difficulty
 - Easy: 2
-- Medium: 6
+- Medium: 7
 - Hard: 1
 - Unknown: 0
 
