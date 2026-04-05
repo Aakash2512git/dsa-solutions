@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T17:16:23.129Z",
+  "updatedAt": "2026-04-05T18:23:44.692Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -126,6 +126,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/easy/matrix/print-diagonally-practice/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-04-03T17:16:22.788Z"
+    },
+    {
+      "id": "1775413424300-gv8va7",
+      "title": "Target Sum | Practice",
+      "platform": "gfg",
+      "difficulty": "medium",
+      "topic": "dp",
+      "topicSlug": "dp",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/target-sum-1626326450/1",
+      "solutionPath": "dsa-archive/solutions/gfg/medium/dp/target-sum-practice/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-04-05T18:23:44.300Z"
     }
   ]
 }
