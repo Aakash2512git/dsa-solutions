@@ -1,6 +1,13 @@
 # Company: Unspecified
 
-Total: 10
+Total: 11
+
+- **Detect Cycles in 2D Grid** (LEETCODE, MEDIUM)
+  - Topic: dp
+  - Companies: unspecified
+  - Source: https://leetcode.com/problems/detect-cycles-in-2d-grid/?envType=daily-question&envId=2026-04-26
+  - Solution File: `dsa-archive/solutions/leetcode/medium/dp/detect-cycles-in-2d-grid/solution.cpp`
+  - Pushed At: 2026-04-26T15:15:11.776Z
 
 - **Target Sum | Practice** (GFG, MEDIUM)
   - Topic: dp
