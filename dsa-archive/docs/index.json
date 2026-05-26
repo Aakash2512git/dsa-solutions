@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T15:15:12.161Z",
+  "updatedAt": "2026-05-26T18:01:56.126Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -154,6 +154,20 @@
       "solutionPath": "dsa-archive/solutions/leetcode/medium/dp/detect-cycles-in-2d-grid/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-04-26T15:15:11.776Z"
+    },
+    {
+      "id": "1779818515762-uelxnz",
+      "title": "Minimum Toggle to Partition | Practice",
+      "platform": "gfg",
+      "difficulty": "unknown",
+      "topic": "general",
+      "topicSlug": "general",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/minimum-toogles-to-partition0135/1",
+      "solutionPath": "dsa-archive/solutions/gfg/unknown/general/minimum-toggle-to-partition-practice/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-05-26T18:01:55.762Z"
     }
   ]
 }
