@@ -1,6 +1,13 @@
 # Topic: General
 
-Total: 3
+Total: 4
+
+- **Minimum Toggle to Partition | Practice** (GFG, UNKNOWN)
+  - Topic: general
+  - Companies: unspecified
+  - Source: https://www.geeksforgeeks.org/problems/minimum-toogles-to-partition0135/1
+  - Solution File: `dsa-archive/solutions/gfg/unknown/general/minimum-toggle-to-partition-practice/solution.cpp`
+  - Pushed At: 2026-05-26T18:01:55.762Z
 
 - **Reverse Bits** (LEETCODE, EASY)
   - Topic: general
