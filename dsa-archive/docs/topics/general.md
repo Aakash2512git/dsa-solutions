@@ -1,6 +1,13 @@
 # Topic: General
 
-Total: 4
+Total: 5
+
+- **Minimum Cost Pizza  Selection | Practice** (GFG, MEDIUM)
+  - Topic: general
+  - Companies: unspecified
+  - Source: https://www.geeksforgeeks.org/problems/pizza-mania0155/1
+  - Solution File: `dsa-archive/solutions/gfg/medium/general/minimum-cost-pizza-selection-practice/solution.cpp`
+  - Pushed At: 2026-09-26T16:56:47.508Z
 
 - **Minimum Toggle to Partition | Practice** (GFG, UNKNOWN)
   - Topic: general
