@@ -1,6 +1,13 @@
 # Difficulty: Medium
 
-Total: 8
+Total: 9
+
+- **Minimum Cost Pizza  Selection | Practice** (GFG, MEDIUM)
+  - Topic: general
+  - Companies: unspecified
+  - Source: https://www.geeksforgeeks.org/problems/pizza-mania0155/1
+  - Solution File: `dsa-archive/solutions/gfg/medium/general/minimum-cost-pizza-selection-practice/solution.cpp`
+  - Pushed At: 2026-09-26T16:56:47.508Z
 
 - **Detect Cycles in 2D Grid** (LEETCODE, MEDIUM)
   - Topic: dp
