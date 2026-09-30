@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T16:56:48.046Z",
+  "updatedAt": "2026-09-30T06:23:28.270Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -182,6 +182,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/medium/general/minimum-cost-pizza-selection-practice/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-09-26T16:56:47.508Z"
+    },
+    {
+      "id": "1790749407861-6rb1bg",
+      "title": "Ways to Reach Origin",
+      "platform": "gfg",
+      "difficulty": "medium",
+      "topic": "dp",
+      "topicSlug": "dp",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1",
+      "solutionPath": "dsa-archive/solutions/gfg/medium/dp/ways-to-reach-origin/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-09-30T06:23:27.861Z"
     }
   ]
 }
