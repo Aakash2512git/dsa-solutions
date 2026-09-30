@@ -1,6 +1,13 @@
 # Company: Unspecified
 
-Total: 13
+Total: 14
+
+- **Ways to Reach Origin** (GFG, MEDIUM)
+  - Topic: dp
+  - Companies: unspecified
+  - Source: https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1
+  - Solution File: `dsa-archive/solutions/gfg/medium/dp/ways-to-reach-origin/solution.cpp`
+  - Pushed At: 2026-09-30T06:23:27.861Z
 
 - **Minimum Cost Pizza  Selection | Practice** (GFG, MEDIUM)
   - Topic: general
