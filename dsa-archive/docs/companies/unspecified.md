@@ -1,6 +1,13 @@
 # Company: Unspecified
 
-Total: 14
+Total: 15
+
+- **Perimeter of Shapes in Binary Matrix** (GFG, EASY)
+  - Topic: Matrix
+  - Companies: unspecified
+  - Source: https://www.geeksforgeeks.org/problems/find-perimeter-of-shapes/1
+  - Solution File: `dsa-archive/solutions/gfg/easy/matrix/perimeter-of-shapes-in-binary-matrix/solution.cpp`
+  - Pushed At: 2026-10-03T18:48:10.391Z
 
 - **Ways to Reach Origin** (GFG, MEDIUM)
   - Topic: dp
