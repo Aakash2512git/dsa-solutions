@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T06:23:28.270Z",
+  "updatedAt": "2026-10-03T18:48:10.830Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -196,6 +196,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/medium/dp/ways-to-reach-origin/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-09-30T06:23:27.861Z"
+    },
+    {
+      "id": "1791053290391-ihmun9",
+      "title": "Perimeter of Shapes in Binary Matrix",
+      "platform": "gfg",
+      "difficulty": "easy",
+      "topic": "Matrix",
+      "topicSlug": "matrix",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/find-perimeter-of-shapes/1",
+      "solutionPath": "dsa-archive/solutions/gfg/easy/matrix/perimeter-of-shapes-in-binary-matrix/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-10-03T18:48:10.391Z"
     }
   ]
 }
