@@ -1,6 +1,13 @@
 # Company: Unspecified
 
-Total: 15
+Total: 16
+
+- **Valid Parenthesis String** (LEETCODE, MEDIUM)
+  - Topic: String
+  - Companies: unspecified
+  - Source: https://leetcode.com/problems/valid-parenthesis-string/submissions/2161819009/
+  - Solution File: `dsa-archive/solutions/leetcode/medium/string/valid-parenthesis-string/solution.cpp`
+  - Pushed At: 2026-10-04T06:38:07.773Z
 
 - **Perimeter of Shapes in Binary Matrix** (GFG, EASY)
   - Topic: Matrix
