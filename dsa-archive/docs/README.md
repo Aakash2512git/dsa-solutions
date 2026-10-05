@@ -1,11 +1,11 @@
 # DSA Documentation
 
-Total solutions: 18
+Total solutions: 19
 
 ## By Difficulty
 - Easy: 3
 - Medium: 11
-- Hard: 2
+- Hard: 3
 - Unknown: 2
 
 ## Generated Files
