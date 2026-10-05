@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T06:38:08.097Z",
+  "updatedAt": "2026-10-05T18:48:33.582Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -224,6 +224,22 @@
       "solutionPath": "dsa-archive/solutions/leetcode/medium/string/valid-parenthesis-string/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-10-04T06:38:07.773Z"
+    },
+    {
+      "id": "1791226113200-74vkhn",
+      "title": "Longest Increasing Path in Matrix",
+      "platform": "gfg",
+      "difficulty": "hard",
+      "topic": "D-E-Shaw",
+      "topicSlug": "d-e-shaw",
+      "companies": [
+        "Dynamic Programming"
+      ],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/longest-increasing-path-in-a-matrix/1",
+      "solutionPath": "dsa-archive/solutions/gfg/hard/d-e-shaw/longest-increasing-path-in-matrix/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-10-05T18:48:33.200Z"
     }
   ]
 }
