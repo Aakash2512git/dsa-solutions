@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:59:06.096Z",
+  "updatedAt": "2026-10-12T15:03:29.495Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -286,6 +286,22 @@
       "solutionPath": "dsa-archive/solutions/gfg/easy/dynamic-programming/minimum-operations-to-reach-n/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-10-09T17:59:05.688Z"
+    },
+    {
+      "id": "1791817409093-pqhs17",
+      "title": "Minimum Squares with Full Cuts",
+      "platform": "gfg",
+      "difficulty": "medium",
+      "topic": "Minimum Squares With Full Cuts",
+      "topicSlug": "minimum-squares-with-full-cuts",
+      "companies": [
+        "Mathematics"
+      ],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/squares-in-reactangle3340/1",
+      "solutionPath": "dsa-archive/solutions/gfg/medium/minimum-squares-with-full-cuts/minimum-squares-with-full-cuts/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-10-12T15:03:29.093Z"
     }
   ]
 }
