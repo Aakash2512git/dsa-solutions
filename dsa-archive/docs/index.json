@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:03:29.495Z",
+  "updatedAt": "2026-10-15T14:51:55.152Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -302,6 +302,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/medium/minimum-squares-with-full-cuts/minimum-squares-with-full-cuts/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-10-12T15:03:29.093Z"
+    },
+    {
+      "id": "1792075914602-2zzbkc",
+      "title": "Maximum Without 3 Consecutive Set Bits",
+      "platform": "gfg",
+      "difficulty": "unknown",
+      "topic": "Bit Magic",
+      "topicSlug": "bit-magic",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/geek-hates-too-many-1s--170647/1",
+      "solutionPath": "dsa-archive/solutions/gfg/unknown/bit-magic/maximum-without-3-consecutive-set-bits/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-10-15T14:51:54.602Z"
     }
   ]
 }
