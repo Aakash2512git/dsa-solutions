@@ -1,12 +1,12 @@
 # DSA Documentation
 
-Total solutions: 21
+Total solutions: 22
 
 ## By Difficulty
 - Easy: 4
 - Medium: 12
 - Hard: 3
-- Unknown: 2
+- Unknown: 3
 
 ## Generated Files
 - `difficulty/*.md`
