@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T14:51:55.152Z",
+  "updatedAt": "2026-10-17T16:18:22.530Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -316,6 +316,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/unknown/bit-magic/maximum-without-3-consecutive-set-bits/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-10-15T14:51:54.602Z"
+    },
+    {
+      "id": "1792253901992-wh2943",
+      "title": "Convert One String to Another with Constraints",
+      "platform": "gfg",
+      "difficulty": "unknown",
+      "topic": "Strings",
+      "topicSlug": "strings",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/1",
+      "solutionPath": "dsa-archive/solutions/gfg/unknown/strings/convert-one-string-to-another-with-constraints/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-10-17T16:18:21.992Z"
     }
   ]
 }
