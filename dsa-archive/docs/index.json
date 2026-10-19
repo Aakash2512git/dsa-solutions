@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T16:18:22.530Z",
+  "updatedAt": "2026-10-19T18:56:22.038Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -330,6 +330,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/unknown/strings/convert-one-string-to-another-with-constraints/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-10-17T16:18:21.992Z"
+    },
+    {
+      "id": "1792436181664-i2b94y",
+      "title": "Middle of Linked List",
+      "platform": "gfg",
+      "difficulty": "easy",
+      "topic": "Linked List",
+      "topicSlug": "linked-list",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+      "solutionPath": "dsa-archive/solutions/gfg/easy/linked-list/middle-of-linked-list/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-10-19T18:56:21.664Z"
     }
   ]
 }
