@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T18:56:22.038Z",
+  "updatedAt": "2026-10-19T19:02:59.844Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -344,6 +344,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/easy/linked-list/middle-of-linked-list/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-10-19T18:56:21.664Z"
+    },
+    {
+      "id": "1792436579393-57k54c",
+      "title": "Intersection Point in Y Shaped Linked Lists",
+      "platform": "gfg",
+      "difficulty": "medium",
+      "topic": "Linked List",
+      "topicSlug": "linked-list",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/intersection-point-in-y-shaped-linked-lists--170645/1",
+      "solutionPath": "dsa-archive/solutions/gfg/medium/linked-list/intersection-point-in-y-shaped-linked-lists/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-10-19T19:02:59.393Z"
     }
   ]
 }
