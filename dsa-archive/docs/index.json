@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T19:02:59.844Z",
+  "updatedAt": "2026-10-21T19:32:42.471Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -358,6 +358,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/medium/linked-list/intersection-point-in-y-shaped-linked-lists/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-10-19T19:02:59.393Z"
+    },
+    {
+      "id": "1792611162056-khsor8",
+      "title": "Minimum Sum Subarray",
+      "platform": "gfg",
+      "difficulty": "medium",
+      "topic": "arrays",
+      "topicSlug": "arrays",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1",
+      "solutionPath": "dsa-archive/solutions/gfg/medium/arrays/minimum-sum-subarray/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-10-21T19:32:42.056Z"
     }
   ]
 }
