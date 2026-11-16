@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:49:36.540Z",
+  "updatedAt": "2026-11-16T18:40:59.527Z",
   "entries": [
     {
       "id": "1774465897972-ocvzom",
@@ -386,6 +386,20 @@
       "solutionPath": "dsa-archive/solutions/gfg/unknown/arrays/k-th-missing-in-natural-numbers/solution.cpp",
       "importantPath": null,
       "pushedAt": "2026-11-16T11:49:35.714Z"
+    },
+    {
+      "id": "1794854459084-ssclvz",
+      "title": "Repeated Pattern Check",
+      "platform": "gfg",
+      "difficulty": "unknown",
+      "topic": "Check String Follows Anbn Pattern Not",
+      "topicSlug": "check-string-follows-anbn-pattern-not",
+      "companies": [],
+      "language": "cpp",
+      "sourceUrl": "https://www.geeksforgeeks.org/problems/the-pattern-matcher/1",
+      "solutionPath": "dsa-archive/solutions/gfg/unknown/check-string-follows-anbn-pattern-not/repeated-pattern-check/solution.cpp",
+      "importantPath": null,
+      "pushedAt": "2026-11-16T18:40:59.084Z"
     }
   ]
 }
